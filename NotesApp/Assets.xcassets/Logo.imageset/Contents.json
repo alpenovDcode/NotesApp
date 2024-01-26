@@ -3,8 +3,15 @@
     {
       "filename" : "DALL·E 2024-01-26 14.14.47 - Create a transparent icon for the 'NoteApp' iOS mobile application, ensuring only the essential elements of the logo are present and the background is-2.png",
       "idiom" : "universal",
-      "platform" : "ios",
-      "size" : "1024x1024"
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
     }
   ],
   "info" : {
